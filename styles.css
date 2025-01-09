@@ -1,3 +1,83 @@
-h1 {
-    color:darkred
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+body {
+    background-color: aliceblue;
+    color: darkblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p, li {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.about-me {
+    background-color: antiquewhite;
+    border-radius: 40px;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    padding: 0.75rem 4rem 1.5rem 4rem;
+    align-content: middle;
+}
+
+.intro-section {
+    background-color: paleturquoise;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    display: flex;
+    border-radius: 20px;
+    margin-top: 2rem;
+}
+
+.intro-text {
+    max-width: 80%;
+    margin-right: 3.5rem;
+}
+
+.profile-photo {
+    border-radius: 50px;
+    width: 14%;
+    border-style: solid;
+    border-color: cornflowerblue;
+}
+
+.coding-experience {
+    background-color: powderblue;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 20px;
+    margin-top: 2rem;
+}
+
+.activities {
+    background-color: lightblue;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 20px;
+    margin-top: 2rem;
+    display: flex;
+}
+
+.activities-text {
+    max-width: 75%;
+    margin-right: 4rem;
+}
+
+.crochet-photo {
+    max-width: 20%;
+    border-style: solid;
+    border-color: cornflowerblue
+}
+
+.achievements {
+    background-color: lightsteelblue;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 20px;
+    margin-top: 2rem;
 }
