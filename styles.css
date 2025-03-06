@@ -22,7 +22,6 @@ h3 {
 
 .about-me, .portfolio {
     background-color: lavender;
-    border-radius: 40px;
     margin-left: 4rem;
     margin-right: 4rem;
     padding: 0.75rem 2rem 1.5rem 2rem;
@@ -33,7 +32,6 @@ h3 {
     background-color: paleturquoise;
     padding: 0.5rem 1rem 0.5rem 1rem;
     display: flex;
-    border-radius: 20px;
     margin-top: 2rem;
 }
 
@@ -52,14 +50,12 @@ h3 {
 .coding-experience {
     background-color: powderblue;
     padding: 0.5rem 1rem 0.5rem 1rem;
-    border-radius: 20px;
     margin-top: 2rem;
 }
 
 .activities {
     background-color: lightblue;
     padding: 0.5rem 1rem 0.5rem 1rem;
-    border-radius: 20px;
     margin-top: 2rem;
     display: flex;
 }
@@ -78,6 +74,5 @@ h3 {
 .achievements {
     background-color: rgb(155, 207, 224);
     padding: 0.5rem 1rem 0.5rem 1rem;
-    border-radius: 20px;
     margin-top: 2rem;
 }
