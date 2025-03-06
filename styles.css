@@ -20,6 +20,18 @@ h3 {
     font-size: 20px;
 }
 
+.navigation {
+    overflow: hidden;
+}
+  
+.navigation a {
+    float: left;
+    font-size: 16px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
 .about-me, .portfolio {
     background-color: lavender;
     margin-left: 4rem;
