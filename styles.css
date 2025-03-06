@@ -20,16 +20,16 @@ h3 {
     font-size: 20px;
 }
 
-.about-me {
+.about-me, .portfolio {
     background-color: lavender;
     border-radius: 40px;
     margin-left: 4rem;
     margin-right: 4rem;
-    padding: 0.75rem 4rem 1.5rem 4rem;
+    padding: 0.75rem 2rem 1.5rem 2rem;
     align-content: middle;
 }
 
-.intro-section {
+.intro-section, .data-project {
     background-color: paleturquoise;
     padding: 0.5rem 1rem 0.5rem 1rem;
     display: flex;
